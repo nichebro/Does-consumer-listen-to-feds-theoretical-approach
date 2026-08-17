@@ -1,0 +1,16 @@
+RBI SIGNALING PROJECT — HYPOTHESIS TEST RESULTS
+==================================================
+
+H1_t_stat                      5.3558
+H1_p_value                     0.0003 ***
+H1_mean_hike                   1.3361
+H1_mean_nonhike                -0.2037
+H1_LOO_accuracy                1.0000
+H1_majority_baseline           0.8491
+H2_gsec_p                      0.2628 (ns)
+H2_inrusd_p                    0.2509 (ns)
+H3_best_p                      0.4642 (ns)
+H4_direct_p                    0.0406 **
+H4_mediated_p                  0.0163 **
+
+*** p<0.01  ** p<0.05  * p<0.10  (ns) not significant
